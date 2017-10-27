@@ -1,0 +1,27 @@
+{
+  "name": "WeatherTest",
+  "version": "1.0.0",
+  "description": "A test of React.js components to display the weather condition.",
+  "scripts": {
+    "test": "mocha --recursive",
+    "lint": "jshint **.js",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "Marc Littlemore",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.0",
+    "react-toggle-button": "^2.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcL/WeatherApp-React"
+  }
+}
