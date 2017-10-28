@@ -11,8 +11,8 @@
   "keywords": [
     "weather"
   ],
-  "author": "Marc Littlemore",
-  "license": "MIT",
+  "author": "Anupama",
+  "license": "",
   "dependencies": {
     "express": "^4.12.0",
     "react-toggle-button": "^2.1.0"
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarcL/WeatherApp-React"
+    "url": "https://github.com/jvanupama/vt_project/WeatherApp-React"
   }
 }
